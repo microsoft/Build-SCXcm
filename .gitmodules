@@ -1,6 +1,10 @@
 [submodule "omi"]
 	path = omi
 	url = git@github.com:Microsoft/omi.git
+	branch = stable
+[submodule "opsmgr-kits"]
+	path = opsmgr-kits
+	url = git@github.com:Microsoft/SCXcore-osskits.git
 	branch = master
 [submodule "pal"]
 	path = pal
