@@ -1,4 +1,4 @@
-# Configuration Management Client (Build-SCXcm)
+### Configuration Management Client (Build-SCXcm)
 
 ### Code of Conduct
 
